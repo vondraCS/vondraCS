@@ -1,6 +1,4 @@
-Hello 
-
-
+Hello, I am a SWE studying at ASU
 🎐
 
 <!--
